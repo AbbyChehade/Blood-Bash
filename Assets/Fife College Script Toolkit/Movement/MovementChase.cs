@@ -78,6 +78,18 @@ public class MovementChase : MonoBehaviour {
 
         // Assign our modified velocity back to the rigidbody
         rigidbody.velocity = velocity;
+
+        // Change scale based on velocity to flip
+        Vector3 scale = transform.localScale;
+        if (velocity.x < 0)
+        {
+            scale.x = -1 * (Mathf.Abs(scale.x));
+        }
+        else if (velocity.x > 0)
+        {
+            scale.x = (Mathf.Abs(scale.x));
+        }
+        transform.localScale = scale;
     }
     // *****************************************************************************************************************
     #endregion
