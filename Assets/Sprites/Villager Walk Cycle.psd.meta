@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 33e84fdf043857d4aa119787df828c0b
+timeCreated: 1526293361
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Villager Walk Cycle_0
+    21300002: Villager Walk Cycle_1
+    21300004: Villager Walk Cycle_2
+    21300006: Villager Walk Cycle_3
+    21300008: Villager Walk Cycle_4
+    21300010: Villager Walk Cycle_5
+    21300012: Villager Walk Cycle_6
+    21300014: Villager Walk Cycle_7
+    21300016: Villager Walk Cycle_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Villager Walk Cycle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 21
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33294195, y: 0.4538393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Villager Walk Cycle_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: 0.31535706, y: 0.4725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Villager Walk Cycle_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0.31535685, y: 0.45678574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Villager Walk Cycle_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 23
+        height: 47
+      alignment: 9
+      pivot: {x: 0.35549662, y: 0.4607143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Villager Walk Cycle_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 24
+        height: 48
+      alignment: 9
+      pivot: {x: 0.39229202, y: 0.47691965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Villager Walk Cycle_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 28
+        height: 47
+      alignment: 9
+      pivot: {x: 0.39448982, y: 0.46464288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Villager Walk Cycle_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2
+        width: 24
+        height: 48
+      alignment: 9
+      pivot: {x: 0.36921182, y: 0.47307292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Villager Walk Cycle_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2993005, y: 0.45768604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Villager Walk Cycle_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3237499, y: 0.46537948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
